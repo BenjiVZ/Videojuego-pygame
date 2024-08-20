@@ -37,7 +37,8 @@
 
 - **Flecha izquierda**: Mueve al pato a la izquierda.
 - **Flecha derecha**: Mueve al pato a la derecha.
-- **Barra espaciadora**: Realiza un salto para esquivar objetos.
+- **c**: Para cerrar el juego
+- **r**: Para reiniciar el juego
 
 ## Contribuciones
 
