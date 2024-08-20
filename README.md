@@ -15,7 +15,7 @@
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu_usuario/duck-dodge.git
+    git clone https://github.com/BenjiVZ/Videojuego-pygame.git
     ```
 
 2. Asegúrate de tener Python instalado. Este proyecto utiliza [Pygame](https://www.pygame.org/), así que instálalo si no lo tienes:
