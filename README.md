@@ -42,7 +42,3 @@
 ## Contribuciones
 
 Si deseas contribuir a **Duck's Dodge**, siéntete libre de enviar un pull request o reportar problemas en la sección de Issues.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
